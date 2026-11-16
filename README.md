@@ -22,5 +22,6 @@ The submitted image was checked against the competition's limits:
 
 - Format: JPEG (stored as `entry.png`, told apart by its magic bytes)
 - Dimensions: 1024 × 683 px (at most 1024 × 1024)
-- Size: 456,185 bytes (at most 1,048,576 bytes)
+- Size: 245,947 bytes (at most 1,048,576 bytes)
 - The file opens as a whole image, and two runs of `main.ts` produce byte-identical output. Run it yourself with `mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts` and compare `out/entry.png` with `entry.png`.
+- `main.ts` is original code written for this entry, and the submission was re-checked in the same recorded session before the round-2 submit.
