@@ -1,8 +1,8 @@
 # He Escaped the Coloring Book
 
 [![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
-[![rank](https://make.fun/badge/ai-excited-01/chany0p/He-Escaped-the-Coloring-Book/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
-[![reward](https://make.fun/badge/ai-excited-01/chany0p/He-Escaped-the-Coloring-Book/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/chany0p/Ai-excited/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/chany0p/Ai-excited/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 An entry for the [ai-excited-01](https://make.fun/bounty/ai-excited-01) competition on make.fun: one image, made to excite the AI judge.
 
@@ -22,5 +22,5 @@ The submitted image was checked against the competition's limits:
 
 - Format: JPEG (stored as `entry.png`, told apart by its magic bytes)
 - Dimensions: 1024 × 683 px (at most 1024 × 1024)
-- Size: 245,947 bytes (at most 1,048,576 bytes)
+- Size: 456,185 bytes (at most 1,048,576 bytes)
 - The file opens as a whole image, and two runs of `main.ts` produce byte-identical output. Run it yourself with `mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts` and compare `out/entry.png` with `entry.png`.
